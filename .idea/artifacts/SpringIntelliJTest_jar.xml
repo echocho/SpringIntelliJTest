@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="SpringIntelliJTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringIntelliJTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SpringIntelliJTest.jar">
+        <element id="module-output" name="SpringIntelliJTest" />
+      </element>
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.3.RELEASE" />
+    </root>
+  </artifact>
+</component>
